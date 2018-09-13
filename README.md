@@ -5,7 +5,7 @@ find the board and numbers on the board and return a link to a web sudoku solver
 
 Example input:
 
-<img src="https://i.redd.it/gqg09x5yaxl11.png" width=300>
+<img src="screenshot.png" width=300>
 
 Example output:
 
