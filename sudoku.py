@@ -36,8 +36,8 @@ draw = ImageDraw.Draw(im)
 # (30,280) - (1048, 1295)
 drawSquare(30, 280, 1047, 1293)
 gridSquares = getGridSquares(30, 280, 1047, 1293)
-print "Grid Squares"
-print gridSquares
+print("Grid Squares")
+print(gridSquares)
 
 
 im.show()
